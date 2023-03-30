@@ -59,6 +59,6 @@ int main() {
   myList.insert(15);
   myList.insert(20);
   myList.print();
-  myList.remove(15);
+  //myList.remove(15); Don't forget to fix it!
   myList.print();
 }
